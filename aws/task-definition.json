@@ -9,7 +9,7 @@
   "containerDefinitions": [
     {
       "name": "go-simple-server",
-      "image": "image",
+      "image": "",
       "portMappings": [
         {
           "protocol": "tcp",
