@@ -1,5 +1,5 @@
 {
-  "family": "go-simple-server",
+  "family": "go-for-api",
   "taskRoleArn": "arn:aws:iam::113713103169:role/go-for-api-ecs-task ",
   "executionRoleArn": "arn:aws:iam::113713103169:role/go-for-api-ecs ",
   "networkMode": "awsvpc",
@@ -20,7 +20,7 @@
       "logConfiguration": {
         "logDriver": "awslogs",
         "options": {
-          "awslogs-group": "/aws/ecs/go-simple-server",
+          "awslogs-group": "/aws/ecs/go-for-api",
           "awslogs-region": "ap-northeast-1",
           "awslogs-stream-prefix": "app"
         }
