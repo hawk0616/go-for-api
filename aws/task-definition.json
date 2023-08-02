@@ -1,7 +1,7 @@
 {
   "family": "go-for-api",
-  "taskRoleArn": "arn:aws:iam::113713103169:role/go-for-api-ecs-task ",
-  "executionRoleArn": "arn:aws:iam::113713103169:role/go-for-api-ecs ",
+  "taskRoleArn": "arn:aws:iam::113713103169:role/go-for-api-ecs-task",
+  "executionRoleArn": "arn:aws:iam::113713103169:role/go-for-api-ecs",
   "networkMode": "awsvpc",
   "cpu": "256",
   "memory": "512",
