@@ -8,7 +8,7 @@
   "requiresCompatibilities": ["FARGATE"],
   "containerDefinitions": [
     {
-      "name": "go-simple-server",
+      "name": "go-for-api",
       "image": "",
       "portMappings": [
         {
